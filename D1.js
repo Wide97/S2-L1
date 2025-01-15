@@ -10,20 +10,20 @@ REGOLE
 /* ESERCIZIO 1
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 
- -Stringa = Rappresnta una sequenza di caratteri racchiusa tra ""
+
+*/
+
+/*  -Stringa = Rappresnta una sequenza di caratteri racchiusa tra ""
  -Number = definisce un numero intero o decimale 
  -Boolean = rappresenta un valore logico, che può essere true o false
  -Undefined = è una variabile dichiarata, ma alla quale non è ancora stato assegnato un valore 
- -Null - reppresneta un valore vuoto o nullo 
-*/
-
-/* SCRIVI QUI LA TUA RISPOSTA */
+ -Null - reppresneta un valore vuoto o nullo  */
 
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+let myName = "Marco"
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
