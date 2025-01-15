@@ -9,6 +9,12 @@ REGOLE
 
 /* ESERCIZIO 1
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
+
+ -Stringa = Rappresnta una sequenza di caratteri racchiusa tra ""
+ -Number = definisce un numero intero o decimale 
+ -Boolean = rappresenta un valore logico, che può essere true o false
+ -Undefined = è una variabile dichiarata, ma alla quale non è ancora stato assegnato un valore 
+ -Null - reppresneta un valore vuoto o nullo 
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
