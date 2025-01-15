@@ -48,7 +48,13 @@ console.log(x)
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+myName = "Widesott"
+console.log(myName)
+
+const imp = "fiore"
+// imp = "fiore"
+
+console.log(imp)
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
